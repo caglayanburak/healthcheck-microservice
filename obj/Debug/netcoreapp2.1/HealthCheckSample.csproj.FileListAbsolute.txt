@@ -1,0 +1,14 @@
+/Users/burakcaglayan/Projects/HealthCheckSample/obj/Debug/netcoreapp2.1/HealthCheckSample.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/HealthCheckSample/obj/Debug/netcoreapp2.1/HealthCheckSample.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/HealthCheckSample/obj/Debug/netcoreapp2.1/HealthCheckSample.RazorAssemblyInfo.cache
+/Users/burakcaglayan/Projects/HealthCheckSample/obj/Debug/netcoreapp2.1/HealthCheckSample.RazorAssemblyInfo.cs
+/Users/burakcaglayan/Projects/HealthCheckSample/obj/Debug/netcoreapp2.1/HealthCheckSample.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/HealthCheckSample/obj/Debug/netcoreapp2.1/HealthCheckSample.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/HealthCheckSample/bin/Debug/netcoreapp2.1/HealthCheckSample.deps.json
+/Users/burakcaglayan/Projects/HealthCheckSample/bin/Debug/netcoreapp2.1/HealthCheckSample.runtimeconfig.json
+/Users/burakcaglayan/Projects/HealthCheckSample/bin/Debug/netcoreapp2.1/HealthCheckSample.runtimeconfig.dev.json
+/Users/burakcaglayan/Projects/HealthCheckSample/bin/Debug/netcoreapp2.1/HealthCheckSample.dll
+/Users/burakcaglayan/Projects/HealthCheckSample/bin/Debug/netcoreapp2.1/HealthCheckSample.pdb
+/Users/burakcaglayan/Projects/HealthCheckSample/obj/Debug/netcoreapp2.1/HealthCheckSample.RazorTargetAssemblyInfo.cache
+/Users/burakcaglayan/Projects/HealthCheckSample/obj/Debug/netcoreapp2.1/HealthCheckSample.dll
+/Users/burakcaglayan/Projects/HealthCheckSample/obj/Debug/netcoreapp2.1/HealthCheckSample.pdb
